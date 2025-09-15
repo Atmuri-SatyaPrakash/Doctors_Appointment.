@@ -108,7 +108,7 @@ npm run dev
 
 ## 🖼️ Screenshots
 
-![DoctorOnCall OverView](https://github.com/Ujjalzaman/Doctor-Appointment/assets/49386888/eeed56ce-3d9a-464d-91e5-588ea81ec5c0)
+![DoctorOnCall OverView](https://github.com/Atmuri-SatyaPrakash/Doctors_Appointment./blob/main/309568548-eeed56ce-3d9a-464d-91e5-588ea81ec5c0.jpg)
 
 ---
 
