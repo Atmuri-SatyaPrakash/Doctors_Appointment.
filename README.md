@@ -93,7 +93,6 @@ npm run dev
 ## 🛠️ Technology Stack
 
 ### Frontend:
-
 ⚛️ React
 🗂️ Redux Toolkit
 🎨 Ant Design
@@ -101,7 +100,6 @@ npm run dev
 🌐 Axios
 
 ### Backend:
-
 🖥️ Node.js & Express
 📦 TypeScript
 💾 Prisma
